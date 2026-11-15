@@ -41,4 +41,4 @@ Open `index.html` in a browser. No build step. Fonts load from Google Fonts; the
 NISAR is a joint NASA-ISRO mission. Data distributed by the Alaska Satellite Facility DAAC. Built at NASA Space Apps Challenge 2026, Panaji.
 
 ## Licence
-MIT (see `LICENSE`). NISAR data are subject to NASA/ASF data policies.
+Persephone. NISAR data are subject to NASA/ASF data policies.
